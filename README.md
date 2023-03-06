@@ -7,5 +7,6 @@ Version 1 Features:
 - Audio Only Downloading
 
 Version 1 Requirements:
-PyQt5 : pip install PyQt5
-pytube : pip install pytube
+
+- PyQt5 : pip install PyQt5
+- pytube : pip install pytube
