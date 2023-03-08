@@ -1,12 +1,12 @@
-This code is a YouTube video downloader app created using Python and PyQt5. The app can download either a single YouTube video or a playlist, and offers the user the option to select the video quality and whether to download only the audio. The user can input the video or playlist URL, select the download options, and initiate the download with a click of a button. I will be updating and adding new features from time to time.
+ᴛʜɪꜱ ᴄᴏᴅᴇ ɪꜱ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴀᴘᴘ ᴄʀᴇᴀᴛᴇᴅ ᴜꜱɪɴɢ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴘʏQᴛ5. ᴛʜᴇ ᴀᴘᴘ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ ᴇɪᴛʜᴇʀ ᴀ ꜱɪɴɢʟᴇ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ ᴏʀ ᴀ ᴘʟᴀʏʟɪꜱᴛ, ᴀɴᴅ ᴏꜰꜰᴇʀꜱ ᴛʜᴇ ᴜꜱᴇʀ ᴛʜᴇ ᴏᴘᴛɪᴏɴ ᴛᴏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴠɪᴅᴇᴏ Qᴜᴀʟɪᴛʏ ᴀɴᴅ ᴡʜᴇᴛʜᴇʀ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏɴʟʏ ᴛʜᴇ ᴀᴜᴅɪᴏ. ᴛʜᴇ ᴜꜱᴇʀ ᴄᴀɴ ɪɴᴘᴜᴛ ᴛʜᴇ ᴠɪᴅᴇᴏ ᴏʀ ᴘʟᴀʏʟɪꜱᴛ ᴜʀʟ, ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅ ᴏᴘᴛɪᴏɴꜱ, ᴀɴᴅ ɪɴɪᴛɪᴀᴛᴇ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅ ᴡɪᴛʜ ᴀ ᴄʟɪᴄᴋ ᴏꜰ ᴀ ʙᴜᴛᴛᴏɴ. ɪ ᴡɪʟʟ ʙᴇ ᴜᴘᴅᴀᴛɪɴɢ ᴀɴᴅ ᴀᴅᴅɪɴɢ ɴᴇᴡ ꜰᴇᴀᴛᴜʀᴇꜱ ꜰʀᴏᴍ ᴛɪᴍᴇ ᴛᴏ ᴛɪᴍᴇ.
 
-Version 1 Features:
+ᴠᴇʀꜱɪᴏɴ 1 ꜰᴇᴀᴛᴜʀᴇꜱ:
 
-- Download Video or Playlist
-- Select Video Quality
-- Audio Only Downloading
+- ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ᴏʀ ᴘʟᴀʏʟɪꜱᴛ
+- ꜱᴇʟᴇᴄᴛ ᴠɪᴅᴇᴏ Qᴜᴀʟɪᴛʏ
+- ᴀᴜᴅɪᴏ ᴏɴʟʏ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ
 
-Version 1 Requirements:
+ᴠᴇʀꜱɪᴏɴ 1 ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ:
 
-- PyQt5 : pip install PyQt5
-- pytube : pip install pytube
+- ᴘʏQᴛ5 : ᴘɪᴘ ɪɴꜱᴛᴀʟʟ ᴘʏQᴛ5
+- ᴘʏᴛᴜʙᴇ : ᴘɪᴘ ɪɴꜱᴛᴀʟʟ ᴘʏᴛᴜʙᴇ
